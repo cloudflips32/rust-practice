@@ -10,11 +10,7 @@ A classic "Guess the Number" game where the user tries to guess a randomly gener
 
 **How to Run:**
 
-1. Navigate to the game directory:
-   ```bash
-   cd guessing_game
-   ```
-2. Run the game using Cargo:
+1. Run the game using Cargo:
    ```bash
    cargo run
    ```
