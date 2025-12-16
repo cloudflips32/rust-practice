@@ -1,9 +1,3 @@
-# Rust Practice
-
-This repository contains my personal Rust practice projects and exercises as I learn the language.
-
-## Projects
-
 ### Guessing Game
 
 A classic "Guess the Number" game where the user tries to guess a randomly generated number between 1 and 100.
